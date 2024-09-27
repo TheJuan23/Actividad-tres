@@ -18,7 +18,7 @@ salesInfo = f"Las ventas de la empresa láctea aumentaron un {increaseSalesPerce
 print(salesInfo)
 
 # Ejercicio 4: Decodificar un mensaje secreto
-secretMessage = "aS!Ir waQm VL!eDafrcnXi n=gS .P,yytahgoln.!"
+secretMessage = "aS!Ir waQm  VL!eDafrcnXi n=gS .P,yytahgoln.!"
 decodedMessage = secretMessage[3::2]  # Omite los primeros tres caracteres y luego omite todos los demás
 print(decodedMessage)
 
